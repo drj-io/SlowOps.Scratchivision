@@ -1,0 +1,16 @@
+{
+  "name": "Scratchivision",
+  "manufacturer": "Slow Ops",
+  "version": "0.4.0",
+  "format": "vst2",
+  "kind": "effect",
+  "uid": "SoSv",
+  "numInputs": 2,
+  "numOutputs": 2,
+  "category": "Effect",
+  "file32": "VST/scratchivision-arm32.so",
+  "file64": "VST/scratchivision-arm64.so",
+  "description": "Scratch a sample with a turntable: decodes Serato-style control vinyl from the track input and plays the sample at the record's speed and direction. Scrolling waveform and timecode scope.",
+  "author": "Slow Ops",
+  "license": "MIT"
+}
