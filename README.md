@@ -70,10 +70,6 @@ build/venv/bin/python scripts/make_skin_art.py
 
 ## Limits of this version
 
-- **LFSR constants unconfirmed.** They are the commonly published Serato CV02 side A values,
-  not yet checked against real vinyl. If position never locks, pitch and Rel mode still work.
-- **Display widgets unproven.** XYPad, Plotter and 30 Hz parameter redraws are "less tested" in
-  the SDK. Run the checklist in `docs/SPIKE.md` first.
 - **No file browser.** The MPC gives plugins no file browser, so samples come from `Scratchivision/` folders at drive roots: up to 64 files (WAV, AIFF, MP3), 20 s each, loaded one at a time.
 - **Format support.** Only Serato CV02 side A at 33 or 45, for now.
 
