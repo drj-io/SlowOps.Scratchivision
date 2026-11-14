@@ -4,12 +4,16 @@ Scratchivision is an MPC plugin (MPC OS 3.10.1+, built for the MPC XL) that turn
 with Serato-style control vinyl into a scratch controller for a sample. It is an insert effect:
 timecode audio goes into the track, the scratched sample comes out.
 
-| DECK | SCOPE |
+![Scratchivision on an MPC XL](images/screenshot.png)
+
+*The DECK page on an MPC XL.*
+
+| DECK (mock-up) | SCOPE (mock-up) |
 |---|---|
 | ![DECK](docs/images/deck-preview.png) | ![SCOPE](docs/images/scope-preview.png) |
 
-These previews are mock-ups drawn on a computer. On the MPC, the device draws the readouts in
-its own font.
+The mock-ups are drawn on a computer by `scripts/make_skin_art.py`. On the MPC, the device draws
+the readouts in its own font.
 
 ## Layout
 

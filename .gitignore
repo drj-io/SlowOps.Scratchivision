@@ -69,3 +69,6 @@ Testing/
 
 # Copied by scripts/gen_samples.py from ./wav
 plugin/Content/
+
+# Release zips (tools/package.py)
+dist/

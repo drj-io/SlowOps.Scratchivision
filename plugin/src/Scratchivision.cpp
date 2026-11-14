@@ -326,7 +326,7 @@ private:
         info.name = "Scratchivision";
         info.vendor = "Slow Ops";
         info.uniqueId = MPC_FOURCC('S', 'o', 'S', 'v');
-        info.version = 4000;   // 0.4.0
+        info.version = 1000;   // 1.0.0 (the SDK encodes 1000 = 1.0.0.0)
         info.isInstrument = false;
         info.numInputs = 2;
         info.numOutputs = 2;
