@@ -1,11 +1,4 @@
-[ { 
-    "version": "1.0.0", 
-    "device": "MPC Live III", 
-    "firmware": "3.10.1", 
-    "date": "2026-11-15" },
-    { 
-    "version": "1.0.0", 
-    "device": "MPC XL", 
-    "firmware": "3.10.1", 
-    "date": "2026-11-15" }  
+[
+  { "id": "scratchivision", "version": "1.0.0", "device": "MPC Live III (Gen2)", "firmware": "3.10.1", "date": "2026-11-15" },
+  { "id": "scratchivision", "version": "1.0.0", "device": "MPC XL (Gen2)", "firmware": "3.10.1", "date": "2026-11-15" }
 ]
